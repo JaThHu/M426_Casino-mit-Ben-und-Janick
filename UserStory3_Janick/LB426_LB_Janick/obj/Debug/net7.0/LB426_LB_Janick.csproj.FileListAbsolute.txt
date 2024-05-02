@@ -1,0 +1,49 @@
+C:\Users\janic\source\repos\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.exe
+C:\Users\janic\source\repos\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.deps.json
+C:\Users\janic\source\repos\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.runtimeconfig.json
+C:\Users\janic\source\repos\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfo.cs
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\refint\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.genruntimeconfig.cache
+C:\Users\janic\source\repos\LB426_LB_Janick\obj\Debug\net7.0\ref\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfo.cs
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\refint\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\bin\Debug\net7.0\LB426_LB_Janick.exe
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\bin\Debug\net7.0\LB426_LB_Janick.deps.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\bin\Debug\net7.0\LB426_LB_Janick.runtimeconfig.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\bin\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\bin\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfo.cs
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\refint\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\LB426_LB_Janick.genruntimeconfig.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick - Kopie\obj\Debug\net7.0\ref\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.exe
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.deps.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.runtimeconfig.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\bin\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.AssemblyInfo.cs
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\refint\LB426_LB_Janick.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\LB426_LB_Janick.genruntimeconfig.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_LB_Janick\obj\Debug\net7.0\ref\LB426_LB_Janick.dll
