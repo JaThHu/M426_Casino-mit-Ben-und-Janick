@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LB246_FinalGame/1.0.0": {
+        "runtime": {
+          "LB246_FinalGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB246_FinalGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

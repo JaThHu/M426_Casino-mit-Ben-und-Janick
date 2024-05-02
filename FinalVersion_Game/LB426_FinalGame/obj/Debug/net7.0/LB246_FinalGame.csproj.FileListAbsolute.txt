@@ -1,0 +1,28 @@
+C:\Users\janic\source\repos\LB246_FinalGame\bin\Debug\net7.0\LB246_FinalGame.exe
+C:\Users\janic\source\repos\LB246_FinalGame\bin\Debug\net7.0\LB246_FinalGame.deps.json
+C:\Users\janic\source\repos\LB246_FinalGame\bin\Debug\net7.0\LB246_FinalGame.runtimeconfig.json
+C:\Users\janic\source\repos\LB246_FinalGame\bin\Debug\net7.0\LB246_FinalGame.dll
+C:\Users\janic\source\repos\LB246_FinalGame\bin\Debug\net7.0\LB246_FinalGame.pdb
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.AssemblyInfo.cs
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.dll
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\refint\LB246_FinalGame.dll
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.pdb
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\LB246_FinalGame.genruntimeconfig.cache
+C:\Users\janic\source\repos\LB246_FinalGame\obj\Debug\net7.0\ref\LB246_FinalGame.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\bin\Debug\net7.0\LB246_FinalGame.exe
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\bin\Debug\net7.0\LB246_FinalGame.deps.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\bin\Debug\net7.0\LB246_FinalGame.runtimeconfig.json
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\bin\Debug\net7.0\LB246_FinalGame.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\bin\Debug\net7.0\LB246_FinalGame.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.AssemblyInfoInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.AssemblyInfo.cs
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\refint\LB246_FinalGame.dll
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.pdb
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\LB246_FinalGame.genruntimeconfig.cache
+C:\Users\janic\source\repos\2. Schuljahr\Module\LB426\LB426_FinalGame\obj\Debug\net7.0\ref\LB246_FinalGame.dll
