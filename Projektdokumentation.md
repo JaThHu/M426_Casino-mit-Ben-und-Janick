@@ -70,7 +70,7 @@ Total: 10*45min
 |2.A  | 02.05. | janick  | 2*45min |2*45min  |
 |3.A  | 02.05. | Janick | 2*45min | 2*45min |
 |4.A  | 02.05. | Ben | 2*45min | 2*45min |
-| 5.A | 02.05. |  Ben|  | 2*45min | 2*45min |
+| 5.A | 02.05. |  Ben|  2*45min | 2*45min |
 |  6.A| 02.05. | Janick | 1*45min | 2*45min |
 | 7.A | 02.05. | Janick & Ben | 1*45min | 2*45min |
 Total: 11*45
