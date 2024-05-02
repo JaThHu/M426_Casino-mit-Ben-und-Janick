@@ -48,9 +48,14 @@ Unser Projekt ist eine Konsolenapplikation, in der man die Casinospiele "Slotmas
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| | | | | |
+| 1.A|02.05. | Ben| Implementierung der Benutzerinteraktion für die Slotmaschine.|2*45min |
+|2.A|02.05.|Janick|Implementierung der Funktionen und Anleitung des Craps-Spiel.|2*45min|
+|3.A|02.05|Janick|Implementierung der Benutzerinteraktionen für das Craps-Spiel.|2*45min|
+|4.A|02.05|Ben|Implementierung des Benutzer-Infoboard für Kontostand etc.|2*45min|
+|5.A|02.05|Ben|Implementierung der Spielhistorie.|2*45min|
+|6.A|02.05|Janick|Implementierung der Bearbeitung der Guthabensverwaltung|1*45min|
 
-Total: 
+Total: 9*45min 
 
 ## 3 Entscheiden
 
