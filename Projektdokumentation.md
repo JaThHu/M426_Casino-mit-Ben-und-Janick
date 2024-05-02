@@ -6,7 +6,7 @@ Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|02.05|GitHub erstellt und Spiel angefangen zu programmieren.|
+|02.05|GitHub erstellt und Spiel angefangen zu programmieren.| Siehe GitHub Branches|
 | 02.05 | 0.2 | Spiel ist fertig programmiert. |
 
 
