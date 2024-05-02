@@ -55,8 +55,8 @@ Unser Projekt ist eine Konsolenapplikation, in der man die Casinospiele "Slotmas
 |4.A|02.05|Ben|Implementierung des Benutzer-Infoboard für Kontostand etc.|2*45min|
 |5.A|02.05|Ben|Implementierung der Spielhistorie.|2*45min|
 |6.A|02.05|Janick|Implementierung der Bearbeitung der Guthabensverwaltung|1*45min|
-
-Total: 9*45min 
+|7.A|02.05|Janick & Ben|Zusammenführen beider Spiele |1*45min|
+Total: 10*45min 
 
 ## 3 Entscheiden
 
@@ -66,8 +66,14 @@ Total: 9*45min
 
 | AP-№ |Datum     | Zuständig  | geplante Zeit | tatsächliche Zeit |
 |------|------------|------------|---------------|-------------------|
-|  |  |  |  |  |
-
+| 1.A | 02.05. | Ben  |2*45min  | 2*45min|
+|2.A  | 02.05. | janick  | 2*45min |2*45min  |
+|3.A  | 02.05. | Janick | 2*45min | 2*45min |
+|4.A  | 02.05. | Ben | 2*45min | 2*45min |
+| 5.A | 02.05. |  Ben|  | 2*45min | 2*45min |
+|  6.A| 02.05. | Janick | 1*45min | 2*45min |
+| 7.A | 02.05. | Janick & Ben | 1*45min | 2*45min |
+Total: 11*45
 
 
 
@@ -78,8 +84,12 @@ Total: 9*45min
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-|  |  |  |  |
+|1.1  | 02.05. | OK | Ben  |
+| 2.1 |02.05.  | OK | Ben   |
+| 3.1 | 02.05. | OK |  Ben  |
+| 4.1 | 02.05. | OK | Ben   |
+| 5.1 | 02.05. | OK | Ben   |
 
 ### Fazit und Bemerkungen
-
+In Lösungsdokument.
 
