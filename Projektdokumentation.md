@@ -32,7 +32,12 @@ Unser Projekt ist eine Konsolenapplikation, in der man die Casinospiele "Slotmas
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|||||
+|1.1|Die Slotmaschine ist spielbereit und zeigt den aktuellen Kontostand des Spielers an.|Der Spieler gibt den Befehl ein, um die Walzen zu drehen (z.B. "spin").|Die Konsolenanwendung zeigt eine zufällige Kombination von Symbolen. Das Ergebnis des Spiels (Gewinn oder Verlust) wird angezeigt und der Kontostand des Spielers wird aktualisiert.|
+|2.1|Das Craps-Spiel ist bereit für Einsätze und zeigt den aktuellen Kontostand des Spielers an.|Der Spieler gibt den Befehl ein, um einen Einsatz zu platzieren (z.B. "bet 10").|Die Konsolenanwendung bestätigt den Einsatz und zeigt den neuen Kontostand des Spielers an.|
+|3.1|Der Spieler hat bereits einen Einsatz platziert und das Craps-Spiel ist bereit für den Wurf.|Der Spieler gibt den Befehl ein, um zu würfeln (z.B. "roll").|Die Konsolenanwendung zeigt das Ergebnis des Wurfs an und aktualisiert den Kontostand des Spielers entsprechend, abhängig davon, ob der Spieler gewonnen oder verloren hat.|
+|4.1|Der Spieler möchte seine Spielhistorie überprüfen.|Der Spieler gibt den Befehl ein, um die Spielhistorie anzuzeigen (z.B. "history").|Die Konsolenanwendung zeigt eine Liste vergangener Spiele an, einschließlich der Ergebnisse jedes Spiels (Gewinn oder Verlust).|
+|5.1|Der Spieler möchte sein aktuelles Guthaben überprüfen und gegebenenfalls Einzahlungen oder Auszahlungen vornehmen.|er Spieler gibt den Befehl ein, um sein Guthaben anzuzeigen (z.B. "balance") oder eine Einzahlung/Auszahlung vorzunehmen.| Die Konsolenanwendung zeigt den aktuellen Kontostand des Spielers an und führt gegebenenfalls die entsprechenden Transaktionen durch.|
+
 
 
 
