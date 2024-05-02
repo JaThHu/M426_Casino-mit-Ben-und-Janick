@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 
-Gruppe: Müllabfuhr
+Gruppe: Müllabfuhr (Ben säubert das Fricktal)
 Mitglieder: Ben Linus Müller, Janick Thomas Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
