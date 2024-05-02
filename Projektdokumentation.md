@@ -19,14 +19,20 @@ Unser Projekt ist eine Konsolenapplikation, in der man die Casinospiele "Slotmas
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|  |  |  |  |
+| 1 | muss | funktional | Als Spieler möchte ich die Slotmaschine bedienen können, um zu spielen. |
+|2|muss|Qualität|Als Spieler möchte ich die Regeln des Craps-Spiels verstehen, um erfolgreich zu spielen.|
+|3|muss|funktional|Als Spieler möchte ich meinen Einsatz platzieren können, um am Craps-Spiel teilzunehmen.|
+|4|muss|Qualität|Als Spieler möchte ich das Ergebnis meines Craps-Wurfs sehen, um zu wissen, ob ich gewonnen oder verloren habe.|
+|5|kann|Qualität|Als Spieler möchte ich meine Spielhistorie einsehen können, um meine Fortschritte zu verfolgen.|
+|6|kann|Qualität|Als Spieler möchte ich mein Guthaben verwalten können, um mein Spielerlebnis zu kontrollieren.|
+
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| | | | |
+|||||
 
 
 
